@@ -1,4 +1,5 @@
 # USD Assembler
+![image alt](https://github.com/arthurJusteau/usd-assembler/blob/main/usd-assembler%20screen.png?raw=true)
 
 A PySide tool to compose USD assets and shots from published pipeline outputs: link modeling/rigging/animation/lighting outputs into an asset, link assets and assemblies into a shot, and publish versioned composition files. The actual USD composition happens downstream when these files are loaded in Houdini/Solaris or Maya. This tool only builds the sublayer graph.
 
